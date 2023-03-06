@@ -14,3 +14,4 @@ https://colab.research.google.com/drive/1H4JWj8IZ2c1rvzBxCn5rp7VJ2N33ugrB?usp=sh
 
 https://colab.research.google.com/drive/1eViqmUfLuBuRg2kJ5y7CctXClymNDihs?usp=sharing # AlexNet
 
+https://colab.research.google.com/drive/1joQxPYcgIYqu3k5zvEKwRWnCHnKA3X0d#scrollTo=c_y7CJ2QALYD # Half gen anime images
