@@ -1,0 +1,16 @@
+https://colab.research.google.com/drive/1r8KUYux90hx9inAfQouBk8hPhydcQFKE?usp=sharing # Titanic
+
+https://colab.research.google.com/drive/1CrtsU_lnXpwUG2PBcXZMq4EwkSP_JEbX?usp=sharing # Log reg
+
+https://colab.research.google.com/drive/1LFo96d-4Q500CP0M1YgpPoJYa8BbUM31?usp=sharing # Lin reg
+
+https://colab.research.google.com/drive/10a8epu536t2I5j1efJLOyclXoj8BjyEL?usp=sharing # Self matrix
+
+https://colab.research.google.com/drive/16gYCNhyDf_dryxXnUJny9SeQeKl2lk_3?usp=sharing # One more matrix
+
+https://colab.research.google.com/drive/1lKcuNUCL05jzv7qBPFult9WOC7kth9ZI?usp=sharing # Grey images and some fixes
+
+https://colab.research.google.com/drive/1H4JWj8IZ2c1rvzBxCn5rp7VJ2N33ugrB?usp=sharing # First neuro
+
+https://colab.research.google.com/drive/1eViqmUfLuBuRg2kJ5y7CctXClymNDihs?usp=sharing # AlexNet
+
