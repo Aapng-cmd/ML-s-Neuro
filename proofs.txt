@@ -15,3 +15,15 @@ https://colab.research.google.com/drive/1H4JWj8IZ2c1rvzBxCn5rp7VJ2N33ugrB?usp=sh
 https://colab.research.google.com/drive/1eViqmUfLuBuRg2kJ5y7CctXClymNDihs?usp=sharing # AlexNet
 
 https://colab.research.google.com/drive/1joQxPYcgIYqu3k5zvEKwRWnCHnKA3X0d#scrollTo=c_y7CJ2QALYD # Half gen anime images
+
+https://colab.research.google.com/drive/1pNSUsJl1hbMct7QggFnkB-LwK4lleNNB?usp=sharing # for news (from text to category type)
+
+https://colab.research.google.com/drive/1c5RTp9AAlYFAi8DVw7PDH_-mQ2Ngiadq?usp=sharing # weak Translator (seq2seq)
+
+https://colab.research.google.com/drive/1-5xwLlBNxcOFVKDZ8ZRSqYucixBYeTh8?usp=sharing # guessing language
+
+https://colab.research.google.com/drive/1uRnnTeTVLpUOwx0RSPqo-Uv5D41G-j4X?usp=sharing # working with "sound" (heh: images)
+
+https://colab.research.google.com/drive/1YxsvFVE9R047XMFnVYGZo4GtsTZAgXdY?usp=sharing # tic-tac-toe
+
+https://colab.research.google.com/drive/1UFyRKQku_iDvHC_NyxBszlubedRB3Tkl?usp=sharing # Finals (like news)
