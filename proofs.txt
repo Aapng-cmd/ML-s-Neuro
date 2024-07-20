@@ -35,3 +35,5 @@ https://colab.research.google.com/drive/1YxsvFVE9R047XMFnVYGZo4GtsTZAgXdY?usp=sh
 https://colab.research.google.com/drive/1UFyRKQku_iDvHC_NyxBszlubedRB3Tkl?usp=sharing # Finals (like news)
 
 https://colab.research.google.com/drive/1bHQwiXSYhxBKfCebvxYFQtz7GwS9FLI8?usp=sharing # stable diffusion I try
+
+https://colab.research.google.com/drive/1skg-MEGda-wnN72Qnn4haCoTVg2x8AQu?usp=sharing # Depp fake faces try
